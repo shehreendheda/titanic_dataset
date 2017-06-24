@@ -7,7 +7,8 @@ The goal of this initial project was use the titanic dataset available on Kaggle
 3. Scipy.stats 
 4. Matplotlib 
 5. Seaborn
-6. Sklearn preprocessing methods LabelEncoder, OneHotEncoder, and StandardScaler.
+6. Sklearn preprocessing methods LabelEncoder, OneHotEncoder, and StandardScaler.  
+
 My preliminary model had an accuracy of 0.79.
 
 The original source of the data is https://www.kaggle.com/c/titanic/data.
